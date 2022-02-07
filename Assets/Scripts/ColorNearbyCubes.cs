@@ -20,7 +20,6 @@ public class ColorNearbyCubes : MonoBehaviour
         }
     }
 
-
     void OnDrawGizmos() // This method draws gizmos in the editor (cannot be seen in the Game, only the scene editor!)
     {
         // Draw a yellow sphere at the transform's position

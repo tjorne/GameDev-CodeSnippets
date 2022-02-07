@@ -6,6 +6,9 @@ public class DistanceSnippet : MonoBehaviour
 {
     public GameObject cube1;
     public GameObject cube2;
+    public GameObject cube3;
+
+    public Rigidbody rigidbody;
 
     void Update()
     {
